@@ -1,0 +1,39 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 19357b4..ec9e4b6 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -27,17 +27,28 @@[m
+ <body>[m
+ [m
+     <div class="container">[m
+[32m+[m[32m        <div class="join">[m
+[32m+[m[32m            <h3>Join our community</h3>[m
+[32m+[m[32m            <h4>30-day, hassle-free money back guarantee</h4>[m
+[32m+[m[32m            <p>Gain access to our full library of tutorials along with expert code reviews. Perfect for any developers who are serious about honing their skills.</p>[m
+[32m+[m[32m        </div>[m
+[32m+[m[32m        <div class="sign-up">[m
+[32m+[m[32m            <h4>Monthly Subscription</h4>[m
+[32m+[m[32m            <h5><span>&dollar;29</span>per month</h5>[m
+[32m+[m[32m            <p>Full access for less than &dollar;1 a day</p>[m
+[32m+[m[32m            <button>Sign Up</button>[m
+[32m+[m[32m        </div>[m
+[32m+[m[32m        <div class="why-us">[m
+[32m+[m[32m            <h4>Why Us</h4>[m
+[32m+[m[32m            <p>Tutorials by industry experts Peer &amp; expert code review Coding exercises Access to our GitHub repos Community forum Flashcard decks New videos every week[m
+[32m+[m[32m            </p>[m
+[32m+[m[32m        </div>[m
+ [m
+     </div>[m
+ [m
+[31m-[m
+[31m-[m
+[31m-    Join our community 30-day, hassle-free money back guarantee Gain access to our full library of tutorials along with expert code reviews. Perfect for any developers who are serious about honing their skills. Monthly Subscription &dollar;29 per month Full[m
+[31m-    access for less than &dollar;1 a day Sign Up Why Us Tutorials by industry experts Peer &amp; expert code review Coding exercises Access to our GitHub repos Community forum Flashcard decks New videos every week[m
+[31m-[m
+     <footer>[m
+         <p class="attribution">[m
+[31m-            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="#">Your Name Here</a>.[m
+[32m+[m[32m            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="https://github.com/michalgregu/">Michal Gregulec</a>.[m
+         </p>[m
+     </footer>[m
+ </body>[m
